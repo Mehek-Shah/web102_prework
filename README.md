@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-https://imgur.com/PSA5wsW
+<img src='PreWork-Walkthrough.gif' alt='walkthrough'>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenToGIF.
