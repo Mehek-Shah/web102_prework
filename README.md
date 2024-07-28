@@ -23,9 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<video> 
-<source src ='https://imgur.com/PSA5wsW' title='Mehek Shah-web102_prework walkthrough' width='' alt='Video Walkthrough'>
-</video>
+https://imgur.com/PSA5wsW
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenToGIF.
