@@ -32,10 +32,10 @@ GIF created with ScreenToGIF.
 
 Describe any challenges encountered while building the app.
 
-
+One challenge that I faced was to find the top two funded games. I got to know that the sort function in JavaScript considers the elements as strings by default and therefore to sort numbers we need to sort using the difference in ASCII values.
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Mehek Rahul Shah]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
