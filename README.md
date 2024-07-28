@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='PreWork-Walkthrough.gif' alt='walkthrough'>
+<img src='PreWork-Walkthrough.gif' title='video walkthrough'alt='walkthrough'>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenToGIF.
