@@ -23,16 +23,21 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='PreWork-Walkthrough.gif' title='video walkthrough'alt='walkthrough'>
+<img src='PreWork-Walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ScreenToGIF.
+GIF created with ScreenToGif.  
+<!-- Recommended tools:
+[Kap](https://getkap.co/) for macOS
+[ScreenToGif](https://www.screentogif.com/) for Windows
+[peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
 
 Describe any challenges encountered while building the app.
 
 One challenge that I faced was to find the top two funded games. I got to know that the sort function in JavaScript considers the elements as strings by default and therefore to sort numbers we need to sort using the difference in ASCII values.
+
 ## License
 
     Copyright [2024] [Mehek Rahul Shah]
